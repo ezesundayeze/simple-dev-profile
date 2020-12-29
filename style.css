@@ -3,6 +3,7 @@
 *{
     margin: 0;
     padding: 0;
+
 }
 
 html, body{
@@ -18,6 +19,7 @@ html, body{
     grid-template-rows: repeat(10, 1fr);
     height: 100%;
     background: #dde2db;
+    color: rgb(70, 68, 68);
 }
 
 .header{
